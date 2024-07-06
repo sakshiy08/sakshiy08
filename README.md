@@ -11,13 +11,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndxamFwdnE1cGw3aTY4NDd1cGpwam12bjVxNWsycnloazA0NDhkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlmI36YAWe7KScC7hK/giphy.gif" width="100px"/>
-</h1>
 
-
-
-
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndxamFwdnE1cGw3aTY4NDd1cGpwam12bjVxNWsycnloazA0NDhkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlmI36YAWe7KScC7hK/giphy.gif" width="100"/>
+</div>
 
 
 
