@@ -2,7 +2,7 @@
 📍 I am based in Bengaluru, India <br>
 👩🏻‍💻 I’m currently learning machine learning and its applications in single-cell spatial transcriptomics analysis <br>
 🤝🏼 I’m looking to collaborate on projects related to NGS data analysis and machine learning <br>
-📩 For fastest reply - reach me at mailto:sakshiydv08@gmail.com
+📩 For fastest reply - reach me at sakshiydv08@gmail.com <br>
 🙃 Fun fact: If you could type 60 words per minute, eight hours a day, it would take about 50 years to type out the human genome <br> 
 
 <!---
@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndxamFwdnE1cGw3aTY4NDd1cGpwam12bjVxNWsycnloazA0NDhkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlmI36YAWe7KScC7hK/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndxamFwdnE1cGw3aTY4NDd1cGpwam12bjVxNWsycnloazA0NDhkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlmI36YAWe7KScC7hK/giphy.gif" width="200"/>
 </div>
 
 
