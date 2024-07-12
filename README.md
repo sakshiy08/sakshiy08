@@ -4,7 +4,7 @@ STILL IN PROGRESS...
 
 👋 Hi, I’m SAKSHI <br>
 📍 I am based in Bengaluru, India <br>
-👩🏻‍💻 I’m currently learning machine learning and its applications in single-cell spatial transcriptomics analysis <br>
+👩🏻‍💻 I’m currently learning machine learning and its applications in single-cell analysis <br>
 🤝🏼 I’m looking to collaborate on projects related to NGS data analysis and machine learning <br>
 📩 For fastest reply - reach me at sakshiydv08@gmail.com <br>
 
