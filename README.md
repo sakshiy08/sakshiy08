@@ -3,7 +3,7 @@ STILL IN PROGRESS...
 ### 🧏 About Me :
 
 👋 Hi, I’m SAKSHI <br>
-📍 I am based in Bengaluru, India <br>
+📍 I am based in Zurich, Switzerland <br>
 🤝🏼 I’m looking to collaborate on projects related to NGS data analysis and machine learning <br>
 📩 For fastest reply - reach me at sakshiydv08@gmail.com <br>
 
