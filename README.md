@@ -1,5 +1,3 @@
-STILL IN PROGRESS...
-
 ### 🧏 About Me :
 
 👋 Hi, I’m SAKSHI <br>
